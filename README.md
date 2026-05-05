@@ -1,5 +1,6 @@
 # aws-ec2-secure-web-server
 🧠 Project: Secure Web Server on AWS EC2
+
 📌 Objective
 
 Deploy and secure a Linux-based web server on AWS using EC2.
@@ -9,6 +10,7 @@ AWS EC2
 Ubuntu Linux
 Nginx
 SSH
+
 🚀 Steps Performed
 1. Launched EC2 Instance
 Ubuntu Server
@@ -36,6 +38,7 @@ Edited /var/www/html/index.html
 
 🔐 Security Considerations (you’ll add more later)
 Controlled inbound traffic via security groups
+
 📚 What I Learned
 SSH access to cloud servers
 AWS networking basics
