@@ -42,5 +42,3 @@ Controlled inbound traffic via security groups
 SSH access to cloud servers  
 AWS networking basics  
 Hosting a live web server  
-Don’t copy-paste random theory
-Don’t skip screenshots
